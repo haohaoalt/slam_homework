@@ -1,5 +1,5 @@
 # slam_homework
-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
+
 从零开始学习SLAM笔记
 # 01HW
  题目：我们知道SLAM是处理序列图像的，有时候需要格式化的图像名字用作输入。前面提到的TUM的RGB-D数据集中图像是根据时间命名的，请从下面链接下载数据集fr1/desk
